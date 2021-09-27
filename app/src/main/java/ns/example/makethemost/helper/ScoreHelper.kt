@@ -23,10 +23,10 @@ class ScoreHelper {
 //            }
 //        }
 
-        // After Refactor
-         fun calculate(firstScore: Int, secondScore: Int) = (firstScore + secondScore) % 10
-
-        // Score Random
-         fun random() = Random.nextInt(0, 10)
+//        // After Refactor
+//         fun calculate(firstScore: Int, secondScore: Int) = (firstScore + secondScore) % 10
+//
+//        // Score Random
+//         fun random() = Random.nextInt(0, 10)
     }
 }
